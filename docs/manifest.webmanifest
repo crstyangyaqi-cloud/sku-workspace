@@ -1,0 +1,14 @@
+{
+  "name": "SKU 工作台",
+  "short_name": "SKU 工作台",
+  "description": "产品 SKU 工作进度管理",
+  "start_url": "/sku-workspace/",
+  "display": "standalone",
+  "background_color": "#080808",
+  "theme_color": "#080808",
+  "lang": "zh-CN",
+  "icons": [
+    { "src": "/sku-workspace/assets/pwa-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/sku-workspace/assets/pwa-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
